@@ -1,0 +1,244 @@
+.b-example-divider {
+  width: 100%;
+  height: 2rem;
+  background-color: rgba(0, 0, 0, .1);
+  border: solid rgba(0, 0, 0, .15);
+  border-width: 1px 0;
+  box-shadow: inset 0 0.5em 1.5em rgba(0, 0, 0, .1), inset 0 0.125em 0.5em rgba(0, 0, 0, .15);
+}
+
+.navbar-toggler {
+    padding: 5px;
+    line-height: 1;
+    background-color: transparent;
+    border: solid;
+    border-radius: 15px;
+}
+
+.card {
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+    color: whitesmoke;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  }
+
+  .accordion-body {
+    background-color: rgb(211, 211, 211);
+  }
+
+  .Ice {
+    background-color: rgb(150, 217, 214);
+  }
+
+  .b-Ice {
+    border-style: double;
+    border-radius: 5px;
+    border-color: rgb(150, 217, 214);
+    outline: solid rgb(150, 217, 214);
+    outline-offset: 2px;
+  }
+
+  .Normal {
+    background-color: rgb(168, 167, 122);
+  }
+
+  .b-Normal {
+    border-style: double;
+    border-radius: 5px;
+    border-color: rgb(168, 167, 122);
+    outline: solid rgb(168, 167, 122);
+    outline-offset: 2px;
+  }
+
+  .Electric {
+    background-color: rgb(247, 208, 44);
+  }
+
+  .b-Electric {
+    border-style: double;
+    border-radius: 5px;
+    border-color: rgb(247, 208, 44);
+    outline: solid rgb(247, 208, 44);
+    outline-offset: 2px;
+  }
+
+  .Grass {
+    background-color: rgb(122, 199, 76);
+  }
+
+  .b-Grass {
+    border-style: double;
+    border-radius: 5px;
+    border-color: rgb(122, 199, 76);
+    outline: solid rgb(122, 199, 76);
+    outline-offset: 2px;
+  }
+
+  .Flying {
+    background-color: rgb(169, 143, 243);
+  }
+  
+  .b-Flying {
+    border-style: double;
+    border-radius: 5px;
+    border-color: rgb(169, 143, 243);
+    outline: solid rgb(169, 143, 243);
+    outline-offset: 2px;
+  }
+
+  .Rock {
+    background-color: rgb(182, 161, 54);
+  }
+  
+  .b-Rock {
+    border-style: double;
+    border-radius: 5px;
+    border-color: rgb(182, 161, 54);
+    outline: solid rgb(182, 161, 54);
+    outline-offset: 2px;
+  }
+
+  .Ground {
+    background-color: rgb(226, 191, 101);
+  }
+  
+  .b-Ground {
+    border-style: double;
+    border-radius: 5px;
+    border-color: rgb(226, 191, 101);
+    outline: solid rgb(226, 191, 101);
+    outline-offset: 2px;
+  }
+
+  .Steel {
+    background-color: rgb(183, 183, 206);
+  }
+  
+  .b-Steel {
+    border-style: double;
+    border-radius: 5px;
+    border-color: rgb(183, 183, 206);
+    outline: solid rgb(183, 183, 206);
+    outline-offset: 2px;
+  }
+
+  .Fire {
+    background-color: rgb(238, 129, 48);
+  }
+  
+  .b-Fire {
+    border-style: double;
+    border-radius: 5px;
+    border-color: rgb(238, 129, 48);
+    outline: solid rgb(238, 129, 48);
+    outline-offset: 2px;
+  }
+
+  .Water {
+    background-color: rgb(99, 144, 240);
+  }
+  
+  .b-Water {
+    border-style: double;
+    border-radius: 5px;
+    border-color: rgb(99, 144, 240);
+    outline: solid rgb(99, 144, 240);
+    outline-offset: 2px;
+  }
+
+  .Psychic {
+    background-color: rgb(249, 85, 135);
+  }
+  
+  .b-Psychic {
+    border-style: double;
+    border-radius: 5px;
+    border-color: rgb(249, 85, 135);
+    outline: solid rgb(249, 85, 135);
+    outline-offset: 2px;
+  }
+
+  .Ghost {
+    background-color: rgb(115, 87, 151);
+  }
+  
+  .b-Ghost {
+    border-style: double;
+    border-radius: 5px;
+    border-color: rgb(115, 87, 151);
+    outline: solid rgb(115, 87, 151);
+    outline-offset: 2px;
+  }
+
+  .Bug {
+    background-color: rgb(166, 185, 26);
+  }
+  
+  .b-Bug {
+    border-style: double;
+    border-radius: 5px;
+    border-color: rgb(166, 185, 26);
+    outline: solid rgb(166, 185, 26);
+    outline-offset: 2px;
+  }
+
+  .Fighting {
+    background-color: rgb(194, 46, 40);
+  }
+  
+  .b-Fighting {
+    border-style: double;
+    border-radius: 5px;
+    border-color: rgb(194, 46, 40);
+    outline: solid rgb(194, 46, 40);
+    outline-offset: 2px;
+  }
+
+  .Poison {
+    background-color: rgb(163, 62, 161);
+  }
+  
+  .b-Poison {
+    border-style: double;
+    border-radius: 5px;
+    border-color: rgb(163, 62, 161);
+    outline: solid rgb(163, 62, 161);
+    outline-offset: 2px;
+  }
+
+  .Dragon {
+    background-color: rgb(111, 53, 252);
+  }
+  
+  .b-Dragon {
+    border-style: double;
+    border-radius: 5px;
+    border-color: rgb(111, 53, 252);
+    outline: solid rgb(111, 53, 252);
+    outline-offset: 2px;
+  }
+
+  .Dark {
+    background-color: rgb(112, 87, 70);
+  }
+  
+  .b-Dark {
+    border-style: double;
+    border-radius: 5px;
+    border-color: rgb(112, 87, 70);
+    outline: solid rgb(112, 87, 70);
+    outline-offset: 2px;
+  }
+
+  .Fairy {
+    background-color: rgb(214, 133, 173);
+  }
+  
+  .b-Fairy {
+    border-style: double;
+    border-radius: 5px;
+    border-color: rgb(214, 133, 173);
+    outline: solid rgb(214, 133, 173);
+    outline-offset: 2px;
+  }
